@@ -1,0 +1,11 @@
+# A CODEOWNERS file uses a pattern that follows most of the same rules used in
+# gitignore files, with some exceptions. The pattern is followed by one or more
+# GitHub usernames or team names using the standard @username or @org/team-name
+# format. Users must have read access to the repository and teams must have
+# explicit write access, even if the team's members already have access. You can
+# also refer to a user by an email address that has been added to their account
+# on GitHub.com, for example user@example.com.
+#
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+* @kailashs_in
